@@ -7,6 +7,6 @@ https://github.com/alexianaa/Aprendendo-git.git
 
 | Item | Quantidade |
 | ------------- | ------------- |
-| Arroz | 3 |
+| Arroz | 30 |
 | Feijão | 60 |
 | Batata | 96 |
