@@ -9,4 +9,4 @@ https://github.com/alexianaa/Aprendendo-git.git
 | ------------- | ------------- |
 | Arroz | 3 |
 | Feijão | 60 |
-| Batata | 7 |
+| Batata | 96 |
